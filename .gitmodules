@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "tabulator"]
+	path = tabulator
+	url = https://github.com/skhiggins/tabulator
+	shallow = true
+	registered = true
